@@ -7,3 +7,5 @@ A Flask sample application is also available for the article at [https://github.
 If you need an Azure account, you can [create one for free](https://azure.microsoft.com/en-us/free/).
 
 [![Build and deploy Python app to Azure Web App - testmy](https://github.com/enjesh/msdocs-python-django-webapp-quickstart/actions/workflows/main_testmy.yml/badge.svg)](https://github.com/enjesh/msdocs-python-django-webapp-quickstart/actions/workflows/main_testmy.yml)
+
+[![Build and deploy Python app to Azure Web App - myPyAppS](https://github.com/enjesh/msdocs-python-django-webapp-quickstart/actions/workflows/main_mypyapps.yml/badge.svg)](https://github.com/enjesh/msdocs-python-django-webapp-quickstart/actions/workflows/main_mypyapps.yml)
